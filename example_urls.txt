@@ -1,0 +1,14 @@
+https://www.google.com/
+http://192.168.0.1/login
+http://secure-paypal.com/verify
+https://accounts-google.com/signin
+http://login.facebook.com.user.verify.example.com/
+https://github.com/
+http://paypal.com-login.example.net/
+http://example-bank.verify-account.com/
+https://amazon.com/
+http://xn--goog1e-abc.com/  # punycode/typo-squat example
+http://very-long-domain-name-with-many-hyphens-example-company-login.com/
+http://example.com/@admin
+http://10.0.0.5/secure
+http://update-paypal.com/confirm
